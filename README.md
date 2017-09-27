@@ -1,2 +1,2 @@
 # hello-world
-Learning repository
+This is an edited read me version.
